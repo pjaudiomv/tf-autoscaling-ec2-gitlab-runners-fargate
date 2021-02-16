@@ -1,0 +1,7 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+**/terraform_modules/*
+terraform.tfvars
+.DS_Store
+.idea
